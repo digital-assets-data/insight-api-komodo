@@ -66,7 +66,7 @@
   "dependencies": {
     "async": "*",
     "bitcore-lib-komodo": "git+ssh://git@github.com:digital-assets-data/bitcore-lib-komodo",
-    "bitcore-message-komodo": "git+ssh://git@github.com:supernetorg/bitcore-message-komodo",
+    "bitcore-message-komodo": "git+ssh://git@github.com:digital-assets-data/bitcore-message-komodo",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
